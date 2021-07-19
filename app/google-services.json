@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990614958128",
+    "project_id": "facetoface-7cfcd",
+    "storage_bucket": "facetoface-7cfcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990614958128:android:83595e9860c8bdbca53df5",
+        "android_client_info": {
+          "package_name": "com.example.facetoface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990614958128-ja5o3fcrluhk17u7qo30gl15p1bpvsk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa_cgK0-m6kJglLxkMn4_6Y6xrXS-dyJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990614958128-ja5o3fcrluhk17u7qo30gl15p1bpvsk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
